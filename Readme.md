@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Теймур Аббасов](https://up.htmlacademy.ru/htmlcss/19/user/248693).
+* Студент: [Alex](https://up.htmlacademy.ru/htmlcss/19/user/248693).
 
 ---
 
